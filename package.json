@@ -1,13 +1,10 @@
 {
-  "name": "converter_number_systems",
+  "name": "converter_systems_of_number",
   "version": "1.0.0",
   "description": "Calculator for transferring from one number system to another",
-  "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
+  "main": "converterNumberSystem.js",
   "author": "SashAwl",
-  "repository": "https://github.com/SashAwl/node_JS/tree/library_for_npm",
+  "repository": "https://github.com/SashAwl/node_JS/tree/library_for_npm/public_converter",
   "license": "ISC",
   "keywords": [
     "number systems",
