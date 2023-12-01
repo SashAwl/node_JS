@@ -1,0 +1,16 @@
+{
+  "name": "converter_number_systems",
+  "version": "1.0.0",
+  "description": "Calculator for transferring from one number system to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "SashAwl",
+  "repository": "https://github.com/SashAwl/node_JS/tree/library_for_npm",
+  "license": "ISC",
+  "keywords": [
+    "number systems",
+    "system of numbers"
+  ]
+}
