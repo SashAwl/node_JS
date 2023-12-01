@@ -2,7 +2,7 @@
   "name": "converter_systems_of_number",
   "version": "1.0.0",
   "description": "Calculator for transferring from one number system to another",
-  "main": "converterNumberSystem.js",
+  "main": "converterNumberSystems.js",
   "author": "SashAwl",
   "repository": "https://github.com/SashAwl/node_JS/blob/library_for_npm/package.json",
   "license": "ISC",
